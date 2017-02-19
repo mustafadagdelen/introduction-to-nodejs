@@ -1,0 +1,9 @@
+{
+	"esnext": true,
+	"globals": {
+		"require": false,
+		"module": false,
+		"console": false
+	},
+	"validthis": true
+}

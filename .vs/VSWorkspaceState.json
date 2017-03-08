@@ -1,0 +1,9 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\file-read-write",
+    "\\file-read-write\\helper"
+  ],
+  "SelectedNode": "\\file-read-write\\helper\\kafkaConsumer.js",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,8 +1,0 @@
-1-	Hello World projesi ile giriþ yap.
-2-	request-response-processing ile async yapýyý göster.
-3-	request-response-processing sonunda express'e ihtiyaç duyur.
-4-	event driven programming
-5-	non-blocking io
-4-	express kurulumunu göster
-		-	yoeman kurulumu ile
-5-	restful api örneði yap	-	mongodb ile

@@ -13,7 +13,7 @@
     "express": "^4.13.3",
     "glob": "^5.0.3",
     "method-override": "^2.3.0",
-    "mongodb": "^2.2.24",
+    "mongodb": ">=3.1.13",
     "morgan": "^1.6.1",
     "request": "^2.72.0",
     "serve-favicon": "^2.3.0",
